@@ -17,4 +17,4 @@ pip install -r requirements.txt
 
 3. Train and evaluate model. 
 ````
-bash ./scripts/long_term_forecast/ETT_script/PerimidFormer_ETTh2.sh
+bash ./scripts/long_term_forecast/96_look-back_window/Air_script/PerimidFormer.sh
